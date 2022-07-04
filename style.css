@@ -45,7 +45,8 @@ h1 {
 
 .area {
 
-    margin: 151px;
+
+    margin-top: 150px;
     background-image: url(exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
